@@ -7,11 +7,15 @@
 }
 #leinster {
         border-bottom: 3px solid #6F7C71;
-        height: 900px;
+        height: 1100px;
+}
+#AGM {
+        border-bottom: 3px solid #6F7C71;
+        height: 200px;
 }
 #cavan {
         border-bottom: 3px solid #6F7C71;
-        height: 150px;
+        height: 200px;
 }
 
 #clearR {

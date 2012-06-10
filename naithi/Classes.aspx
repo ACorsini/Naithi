@@ -47,7 +47,7 @@
         <p>In addition, Grúpa Cheoil classes are available for all registered pupils who have a number
          of years playing experience. A number of Ceili Bands are also organised based on age group.</p> 
 		<div id="full">
-		<p>Classes will resume on Thursday January 12th, 2012</p>
+		<p>Classes will resume on Thursday September 15th, 2012</p>
 			</div>
 			<h3>Instruments</h3>
 			<p>Classes are available for</p>

@@ -28,6 +28,9 @@
                na hÉireann</span><br /> 
                Cavan: 18th, 19th August<br />
              See <a href="News.aspx#cavan ">Latest News</a></p>
+             <p><span class="style5">Craobh Naithí AGM</span><br /> 
+                 Monday 15th October<br />
+             See <a href="News.aspx#AGM">Latest News</a></p>
 		<p>The ‘Green’ Book CDs<br />See <a href="Events.aspx#cds">
 		Recent Events</a></p>
         </div>
