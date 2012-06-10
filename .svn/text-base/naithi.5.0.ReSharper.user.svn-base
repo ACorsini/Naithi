@@ -1,0 +1,79 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Classes.aspx.cs" caret="0" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:App_Themes/d:Theme1/f:twigs.css" caret="303" fromTop="18" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Committee.aspx" caret="0" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:links.aspx" caret="0" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:News.aspx" caret="0" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Classes.aspx" caret="562" fromTop="14" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:App_Themes/d:Theme1/f:gallery.css" caret="405" fromTop="20" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:SiteMap.aspx" caret="0" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx.cs" caret="1636" fromTop="8" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:App_Themes/d:Theme1/f:naithi1.css" caret="3974" fromTop="31" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Twigs.aspx" caret="0" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:App_Themes/d:Theme1/f:contact.css" caret="38" fromTop="2" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Events.aspx" caret="0" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Default.aspx" caret="0" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:App_Themes/d:Theme1/f:scoil.css" caret="598" fromTop="33" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx" caret="404" fromTop="3" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:CDs.aspx" caret="0" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Web.config" caret="5228" fromTop="7" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:Gallery/f:gallery.html" caret="0" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Contact.aspx" caret="0" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Contact.aspx.cs" caret="0" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Naithi.master" caret="0" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Naithi.master.cs" caret="308" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx" caret="1645" fromTop="14" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:App_Themes/d:Theme1/f:scoil.css" caret="71" fromTop="5" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx" caret="8942" fromTop="14" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx.cs" caret="2307" fromTop="35" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx.cs" caret="538" fromTop="15" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx.cs" caret="237" fromTop="8" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Classes.aspx" caret="562" fromTop="14" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:App_Themes/d:Theme1/f:scoil.css" caret="178" fromTop="12" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:App_Themes/d:Theme1/f:scoil.css" caret="337" fromTop="21" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:App_Themes/d:Theme1/f:scoil.css" caret="275" fromTop="17" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx" caret="5054" fromTop="14" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx" caret="2533" fromTop="4" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx" caret="407" fromTop="4" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:App_Themes/d:Theme1/f:scoil.css" caret="426" fromTop="25" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx" caret="407" fromTop="4" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx" caret="1047" fromTop="16" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx.cs" caret="676" fromTop="6" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx.cs" caret="1608" fromTop="5" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:App_Themes/d:Theme1/f:scoil.css" caret="643" fromTop="27" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:App_Themes/d:Theme1/f:scoil.css" caret="537" fromTop="18" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:App_Themes/d:Theme1/f:scoil.css" caret="598" fromTop="30" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx" caret="2310" fromTop="10" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/d:Gallery/f:gallery.html" caret="774" fromTop="1" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Naithi.master" caret="306" fromTop="5" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Web.config" caret="2053" fromTop="9" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Web.config" caret="2317" fromTop="18" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:Web.config" caret="3092" fromTop="5" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx" caret="3940" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx" caret="4366" fromTop="0" />
+      <File id="6BCF17AE-0BC8-4113-A629-68B730AA452B/f:scoil.aspx" caret="137" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

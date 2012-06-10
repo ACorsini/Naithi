@@ -1,0 +1,51 @@
+﻿<%@ Page Title="Latest News" Language="C#" MasterPageFile="~/Naithi.Master" AutoEventWireup="true" CodeBehind="News.aspx.cs" Inherits="naithi.News" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+
+ <link href="App_Themes/Theme1/events1.css" rel="stylesheet" type="text/css" />
+ <link href="App_Themes/Theme1/news1.css" rel="stylesheet" type="text/css" />
+    </asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
+<h1>Activities</h1>
+<p class="style_bold" >Upcoming activities to put in your diary</p>
+    <div id="party">
+    <img src="App_Themes/Theme1/images/_vti_cnf/party.jpg" alt="Kids Christmas Party" class="floatR"/>
+<h3 class="h3_events">Under 12s Children’s Christmas Party</h3>
+    <p class="body_events">Our Under 12s Children’s Christmas Party will be held in
+    the Divine Word Parish Centre, Marlay Grange, Rathfarnham on Sunday December 11th from 3pm to 5pm.</p>
+    <p class="body_events">As well as loads of music there will be games to join in and perhaps a surprise guest</p>
+    <p>&nbsp;</p>
+    </div>
+    <div id="concert">
+    <img src="App_Themes/Theme1/images/_vti_cnf/xmasconcert.jpg" alt="Our youngest Musicians" class="floatR" />
+<h3 class="h3_events">Children’s End of Year Concert</h3>
+    <p class="body_events">Our Annual Children’s Concert traditionally takes place 
+    on the last meeting of the year. This year it will take place on 
+    Thursday 15th December from 6.30 to 8.30.</p>
+    <p class="body_events">It is hoped to give as many of our students as possible
+    the opportunity to perform on stage to parents and friends.</p>
+    <p class="body_events">Come along for an enjoyable night of music, song and dance</p>
+    </div>
+    <div id="wren">
+    <img src="App_Themes/Theme1/images/_vti_cnf/smallwren..jpg" alt="Workshop" class="floatL"/>
+<h3 class="h3_events">Hunt the Wren</h3>
+    <p class="body_events">Craobh Naithi’s Wren Boys hope to carry
+     on the noble tradition of bringing our music to entertain people
+     on St Stephens’Day.</p>
+    <p class="body_events">They are hoping for better travelling conditions than last year when snow nearly caused the abandonment of the trip.
+    So they will be assembling at De La Salle Churchtown at 1pm on Monday 26th December.</p>
+    <p class="body_events">The whole operation is under the command of Captain Mick Glynn<br />( 086 172 3274)</p>
+    <p class="body_events"><em><strong>Face paint and costumes a must!</strong></em></p>
+    </div>
+    <div id="scoil"> 
+    <img src="App_Themes/Theme1/images/cotter.jpg" alt="Workshop" class="floatL"/>
+<h3 class="h3_events">Ceardlann an Fhómhair 2012</h3>
+    <p class="body_events">Ceardlann an Fhómhair 2011 will take place in October.</p>
+    <p>See <a href="scoil.aspx">Ceardlann an Fhómhair</a> and in Blog</p>
+    <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+
+
+</asp:Content>

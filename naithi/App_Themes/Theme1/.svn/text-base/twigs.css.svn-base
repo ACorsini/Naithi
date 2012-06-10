@@ -1,0 +1,26 @@
+﻿body
+{
+}
+.thumbnail {
+	float: left;
+	width: 240px;
+	height: 360px;
+	border: 1px solid #999;
+	margin: 0 10px 35px 5px;
+	margin-top: 0;
+	padding: 0 10px 15px 5px;
+	background-color: #98BA9E;
+}
+
+.caption-thumbnail {
+    font-style: italic;
+    margin-top: 1px;
+    padding-bottom: 5px;
+}
+    
+.thumbnail h3   {
+    font-style: normal;
+    font-size: 1.3em;
+    font-weight: bold;
+} 
+    

@@ -1,0 +1,69 @@
+﻿.h3_events {
+	font-size: 1.3em;
+	font-weight: bold;
+	padding-top: 10px;
+	text-align: left;
+	line-height: 1.6em;
+}
+.h3_events_itals {
+	font-style: italic;
+	padding-bottom:3px;
+}
+.body_events {
+	text-align: left;
+	padding-left: 30px;
+}
+.text_right {
+	text-align: right;
+}
+.highlight {
+	text-align: left;
+	font-weight: bold;
+	margin-left: 30px;
+	padding: 3px 3px 5px 3px;
+	background-color: yellow;
+}
+.events_imgR {
+	margin-left: 10px;
+	margin-bottom: 10px;
+	float: right;
+}
+.events_imgL {
+	margin-right: 10px;
+	margin-bottom: 10px;
+	float:left
+}
+#FullSet {
+    border-bottom: 3px solid #6F7C71;
+}
+#pats {
+    border-bottom: 3px solid #6F7C71;
+}
+#wheels {
+    border-bottom: 3px solid #6F7C71;
+}
+#congrats {
+    border-bottom: 3px solid #6F7C71;
+}
+#scoil {
+    border-bottom: 3px solid #6F7C71;
+}
+#endyear {
+    border-bottom: 3px solid #6F7C71;
+}
+#cds {
+    height: 350px;
+    border-bottom: 3px solid #6F7C71;
+}
+#fleadh {
+    border-bottom: 3px solid #6F7C71;
+}
+#kilnaleck   {
+    border-bottom: 3px solid #6F7C71;
+}
+#maccabe {
+	border-bottom: 3px solid #6F7C71;
+}
+#newyork {	
+	border-bottom: 3px solid #6F7C71;
+}

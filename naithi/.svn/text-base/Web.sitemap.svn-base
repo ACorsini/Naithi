@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="Default" title="Home Page"  description="Home page for Naithi Web Site">
+        <siteMapNode url="Committee.aspx" title="Committee"  description="Committee members and details" />
+        <siteMapNode url="News.aspx" title="News"  description="News of upcomming events" />
+        <siteMapNode url="Events.aspx" title="Events"  description="Recent events that were held" />
+        <siteMapNode url="Classes" title="Classes"  description="Details and Calender of our music classes" />
+        <siteMapNode url="CDs" title="CDs"  description="Our published music and CDs and how to get them" />
+        <siteMapNode url="Gallery/gallery.html" title="Photo Gallery"  description="Photos from all our events" >
+            <siteMapNode title="Brendan" description="Brendan McCabe">
+            <siteMapNode url="Gallery/html/brendan/band2.html" title="Other members of the Fodhla"></siteMapNode>
+            <siteMapNode url="Gallery/html/brendan/Chairmen.html" title="Chairmen"></siteMapNode>
+            <siteMapNode url="Gallery/html/brendan/Elders.html" title="A few of the musicians"></siteMapNode>
+            <siteMapNode url="Gallery/html/brendan/Fodhla1.html" title="Fodhla 1"></siteMapNode>
+            <siteMapNode url="Gallery/html/brendan/hannah.html" title="Hannah's March"></siteMapNode>
+            <siteMapNode url="Gallery/html/brendan/Juniorsess.html" title="Junior session"></siteMapNode>
+            <siteMapNode url="Gallery/html/brendan/mrs_mccabe.html" title="Mrs McCabe"></siteMapNode>
+            <siteMapNode url="Gallery/html/brendan/patsey.html" title="Patsey Downey"></siteMapNode>
+            <siteMapNode url="Gallery/html/brendan/youth.html" title="Our Young Musicians"></siteMapNode>
+            </siteMapNode>
+        <siteMapNode title="Sarah-Jane's wedding" description="Sahra-Jane's wedding">
+            <siteMapNode url="Gallery/html/sjwedding/aisle.html" title="The newly-married couple"></siteMapNode>
+            <siteMapNode url="Gallery/html/sjwedding/cutcake.html" title="Cutting the cake"></siteMapNode>
+            <siteMapNode url="Gallery/html/sjwedding/dance.html" title="Leading the dance"></siteMapNode>
+            <siteMapNode url="Gallery/html/sjwedding/givenaway.html" title="Given away by her father"></siteMapNode>
+            </siteMapNode>
+        <siteMapNode title="Christmas Concert" description="Christmas concert">
+            <siteMapNode url="Gallery/html/concert/under12CB.html" title="Under 12 Ceili Band" ></siteMapNode>
+            <siteMapNode url="Gallery/html/concert/audience.html" title="concert 2008"></siteMapNode>
+            <siteMapNode url="Gallery/html/concert/tutors.html" title="Tutors play"></siteMapNode>
+            </siteMapNode>
+            <siteMapNode title="Scoil Fhomhair" description="Scoil Fhomhair">
+                <siteMapNode url="Gallery/html/scoil/box1.html" title="Accordion workshop"></siteMapNode>
+                <siteMapNode url="Gallery/html/scoil/fiddleging.html" title="Maria Ging's fiddle workshop"></siteMapNode>
+                <siteMapNode url="Gallery/html/scoil/flute1.html" title="Louise Mulcahy's Flute class"></siteMapNode>
+                <siteMapNode url="Gallery/html/scoil/flute2.html" title="June McCormak's flute class"></siteMapNode>
+                <siteMapNode url="Gallery/html/scoil/girls.html" title="The opening session"></siteMapNode>
+                <siteMapNode url="Gallery/html/scoil/harp.html" title="The Harp workshop"></siteMapNode>
+                <siteMapNode url="Gallery/html/scoil/leaders.html" title="Session leaders"></siteMapNode>
+                <siteMapNode url="Gallery/html/scoil/newoldhands.html" title="New and old hands"></siteMapNode>
+                <siteMapNode url="Gallery/html/scoil/oreilly.html" title="Micheal O'Raighilly's class"></siteMapNode>
+                <siteMapNode url="Gallery/html/scoil/pipes.html" title="The pipes"></siteMapNode>
+                <siteMapNode url="Gallery/html/scoil/teens.html" title="Socialising, an important part of the session"></siteMapNode>
+                <siteMapNode url="Gallery/html/scoil/whistle.html" title="Whistle class"></siteMapNode>
+            </siteMapNode>
+            <siteMapNode title="New York" description="Trip to New York">
+                <siteMapNode url="Gallery/html/newyork/concertina5.html" title="Concertina quintet"></siteMapNode>
+                <siteMapNode url="Gallery/html/newyork/batterydance.html" title="Battery Park dance"></siteMapNode>
+                <siteMapNode url="Gallery/html/newyork/chairman.html" title="The chairman plays"></siteMapNode>
+                <siteMapNode url="Gallery/html/newyork/emmasings.html" title="Emma sings"></siteMapNode>
+                <siteMapNode url="Gallery/html/newyork/fiddles.html" title="Fiddlers five"></siteMapNode>
+                <siteMapNode url="Gallery/html/newyork/gaffney.html" title="Our young musicians"></siteMapNode>
+                <siteMapNode url="Gallery/html/newyork/glynns.html" title="Fiddlers three"></siteMapNode>
+                <siteMapNode url="Gallery/html/newyork/janine.html" title="Accordion solo"></siteMapNode>
+                <siteMapNode url="Gallery/html/newyork/liberty.html" title="New York icons"></siteMapNode>
+                <siteMapNode url="Gallery/html/newyork/micktalk.html" title="Mick adresses the group"></siteMapNode>
+                <siteMapNode url="Gallery/html/newyork/seniortrio.html" title="Flute, Fiddle and Banjo"></siteMapNode>
+                <siteMapNode url="Gallery/html/newyork/streetsess.html" title="Street Session"></siteMapNode>
+                <siteMapNode url="Gallery/html/newyork/woods.html" title="The Woods sisters"></siteMapNode>
+                <siteMapNode url="Gallery/html/newyork/youngsters.html" title="More young musicians"></siteMapNode>
+            </siteMapNode>
+
+        <siteMapNode url="Links.aspx" title="Links"  description="Links to some recomended web sites" />
+        <siteMapNode url="Contact.aspx" title="contacts"  description="How to get in touch with us" />
+
+        </siteMapNode>
+    </siteMapNode>
+</siteMap>

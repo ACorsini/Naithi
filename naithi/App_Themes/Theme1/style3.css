@@ -1,0 +1,154 @@
+﻿@import url("layout.css");
+body {
+	font-family: "Georgia", "Times New Roman", Times, serif;
+	font-size: 0.8em;
+	background-color: #6F7C71;
+	background-attachment: scroll;
+}
+#container {
+	width: 700px;
+	margin: 10px auto;
+	background-color: #6F7C71;
+}
+#masthead {
+	text-align: left;
+	width: 685px;
+	background-image: url('../images/naithi.gif');
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-color: white;
+	height: 190px;
+	padding-left: 10px;
+	background-attachment: scroll;
+}
+#navigation {
+	position: relative;
+	float: left;
+	width: 148px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: white;
+}
+#content {
+	float: left;
+	width: 518px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding: 10px;
+	background-color: #fff;
+}
+#footer {
+	text-align: center;
+	clear: both;
+	width: 698px;
+	padding: 0px;
+	background-color: #FCEEC5;
+}
+/* Masthead Styles */
+.h3masthead {
+	font-size: 1.5em;
+	font-weight: bold;
+	vertical-align: bottom;
+	text-align: left;
+	padding-top:140px;
+}
+.wren {
+	float: right;
+}
+/* Navigation Styles */
+#navigation ul {
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#navigation li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 1px solid #fff;
+	background-color: #FCEEC5;
+}
+#navigation a {
+	color: #340E70;
+	text-decoration: none;
+	display: block;
+	padding: 5px;
+	border: 1px solid #fff;
+	background-color: white;
+}
+#navigation a:hover {
+	color: #fff;
+	text-decoration: none;
+	border: 1px solid #964;
+	background-color: #964;
+}
+/* Content Styles */
+#content h1,h2,h3,h4,h5,h6 {
+	color: #340E70;
+}
+#content img {
+	padding: 5px;
+	border: 2px solid #964;
+	margin-bottom: 10px;
+}
+/* Footer Styles */
+#footer p {
+	color: #340E70;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-top: 15px;
+	padding-right:15px;
+	padding-bottom: 20px;
+	text-align: right;
+	background-color: white;
+	clear: both;
+}
+#footer a {
+	color: #340E70;
+	text-decoration: underline;
+	}
+#footer a:hover {
+	color: black;
+	text-decoration: none;
+}
+a {
+	color: #a60;
+	text-decoration: underline;
+}
+a:hover {
+	color: #742;
+	text-decoration: underline;
+	background-color:orange;
+}
+.style_bold {
+	font-weight: bold;
+}
+.style_italic {
+	font-style: italic;
+}
+.clogo {
+	float: left;
+	margin-left:15px;
+}
+.floatR {
+	float: right;
+	margin: 10px;
+}
+.floatL {
+	margin-right: 20px;
+	margin-top: 10px;
+	float: left;
+}
+/* Books Styles */
+#books img {
+	float: right;
+	margin: 10px;
+}
+#cds img {
+margin-right: 20px;
+	margin-top: 10px;
+	float: left;
+}

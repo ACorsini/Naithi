@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Naithi.master.cs" Inherits="naithi.Naithi" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+   <link href="App_Themes/Theme1/naithi1.css" rel="stylesheet" type="text/css" />
+    <meta name="google-site-verification" content="mLg6aMHXb45BP8L_kJe3Zg2onRfSfUJllQbHOYG83Tw" />
+     <title>Untitled Page</title>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+  
+    </asp:ContentPlaceHolder>
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+    <!-- Begin Container -->
+<div id="container">
+	<!-- Begin Masthead -->
+	<div id="masthead">
+	
+
+	<h3 class="h3masthead">South Dublin branch of<br />
+		Comhaltas Ceoltóirí Éireann </h3>
+</div>
+	
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation">
+			<!-- BeginEditable "navigation" -->
+		<ul>
+			<li><a href="Default.aspx">Home</a></li>
+			<li><a href="http://www.naithi.com/NaithiBlog">Blog</a></li>
+			<li><a href="committee.aspx">Committee</a></li>
+			<li><a href="News.aspx">Latest News</a></li>
+			<li><a href="events.aspx">Recent Events</a></li>
+			<li><a href="classes.aspx">Classes</a></li>
+			<li><a href="cds.aspx">Books &amp; CDs </a></li>
+			<li><a href="Twigs.aspx">Newsletter</a></li>
+			<li><a href="scoil.aspx">Ceardlann an Fhómhair</a></li>
+			<li><a href="gallery/gallery.html">Photo Gallery</a></li>
+			<li><a href="links.aspx">Links</a></li>
+			<li><a href="contact.aspx">Contact</a></li>
+			<li><a href="SiteMap.aspx">Site Map</a></li>
+			</ul>
+			<p class="navigationItals">Craobh Naithí 
+                <br />on RTE and YouTube</p>
+			<ul>
+			<li><a href="http://www.rte.ie/radio1/ceilihouse/1043815.html">Ceilí House: Tutorial CD Launch, July 2007</a></li>
+            <li><a href="http://www.youtube.com/watch?v=t8XpXzRmpk0">All-Ireland Fleadh, 2007</a></li>
+            <li><a href="http://www.youtube.com/watch?v=JtvGbAhQTpU">Jigs, All-Ireland Fleadh, 2008</a></li>
+            <li><a href="http://www.youtube.com/watch?v=VZnfW-G-zjU">Reels, All-Ireland Fleadh, 2008</a></li>
+            <li><a href="http://www.youtube.com/watch?v=zcb8i_R5Un4">Battery Park, New York, 2009</a></li>
+            </ul>
+		<p>&nbsp;</p>
+		<!-- EndEditable navigation-->
+	</div>
+<div id ="content">
+		   <asp:ContentPlaceHolder  ID="ContentPlaceHolder1" runat="server">
+		  
+		   
+		   </asp:ContentPlaceHolder>
+		   </div>
+	
+	<!-- End Content -->
+	<!-- Begin Footer -->
+	<div id="footer">
+		<!-- BeginEditable "footer" -->
+		<p>
+		<img alt="Comhaltas logo" class="clogo" src="App_Themes/Theme1/images/comhaltas2.gif" width="140px" />
+		<a href="Default.aspx" style="text-align: left">Home</a> | <a href="committee.aspx">Committee</a> | <a href="news.aspx">News</a> | 
+		<a href="events.aspx">Events</a> | <a href="classes.aspx">Classes</a> | 
+		<a href="cds.aspx">Books &amp; CDs</a> | <a href="gallery/gallery.html">Gallery</a> | <a href="Twigs.aspx">Newsletter</a> |
+		<a href="links.aspx">Links</a> |
+		<a href="contact.aspx">Contact</a></p>
+	</div> 
+		<p class="footernotes">© Craobh Naithí 2012</p>
+	<!-- EndEditable -->
+	</div>
+	<!-- End Footer -->
+<!-- End Container -->
+
+
+    </form>
+</body>
+</html>

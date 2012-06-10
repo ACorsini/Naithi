@@ -1,0 +1,61 @@
+﻿body
+{
+}
+.indent {
+    padding-left: 30px;
+    padding-top: 5px;
+}
+.indenttwo {
+    padding-left: 60px;
+    font-style: italic;
+    margin-top: 0;
+    color: Red;
+}
+.full {
+	line-height: 1.2em;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-left: 5px;
+	margin-top: 10px;
+	border-style: none;
+	white-space: normal;
+	font-weight: bold;
+	color: red;
+	background-color: #FFFF00;
+}
+.tbClass
+{
+    width: 100%;
+    
+}
+.tbClass2
+{
+    width: 110px;
+    text-align:right;
+}
+
+.tbClass3 {
+}
+
+.labelClass{
+text-align:right;
+}
+
+.larger {
+    font-size: 1.4em; 
+    font-style: italic
+}
+
+.instrument {
+    text-align:right;
+    font-weight:bold;
+}
+    
+.musician   {
+    text-align:left;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+    

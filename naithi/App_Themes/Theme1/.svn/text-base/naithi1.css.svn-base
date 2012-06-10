@@ -1,0 +1,324 @@
+﻿@import url("layout.css");
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	background-color: #6F7C71;
+	background-attachment: scroll;
+}
+#container {
+	width: 750px;
+	margin: 10px auto;
+	background-color: #6F7C71;
+}
+#masthead {
+	text-align: left;
+	width: 740px;
+	background-color: #98BA9E;
+	height: 219px;
+	padding-left: 5px;
+	padding-top: 5px;
+	margin-top: 40px;
+	background: url("images/naithLogo.jpg") no-repeat top;
+}
+#navigation {
+	position: relative;
+	float: left;
+	width: 140px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #98BA9E;
+}
+#content {
+	float: left;
+	width: 570px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding: 10px;
+	background-color: #fff;
+}
+#footer {
+	text-align: center;
+	clear: both;
+	width: 750px;
+	padding: 0px;
+	background-color: #98BA9E;
+}
+/* Masthead Styles */
+.h3masthead {
+	font-size: 1.5em;
+	font-weight: bold;
+	vertical-align: bottom;
+	text-align: left;
+	padding-top: 140px;
+	
+}
+
+
+.masthead img {
+	float: right;
+	padding-top: 10px;
+}
+.youth 
+{
+    float: right;
+	padding-top: 15px;
+	
+}
+.nlogo {
+	position: relative;
+	float: left;
+	top: 5px;
+	left: 10px;
+	width: 363px;
+	margin-right:40px;
+	
+}
+/* Navigation Styles */
+#navigation ul {
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#navigation li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 1px solid #98BA9E;
+	background-color: #98BA9E;
+}
+#navigation a {
+	color: black;
+	text-decoration: none;
+	display: block;
+	padding: 5px;
+	border: 1px solid #98BA9E;
+}
+#navigation a:hover {
+	color: #fff;
+	text-decoration: none;
+	border: 1px solid #964;
+	background-color: #964;
+}
+
+.navigationItals    {
+    padding-left: 5px;
+    font-style: italic;
+}
+
+/* Content Styles */
+#content h1,h2,h3,h4,h5,h6 {
+	color: #340E70;
+}
+h1 {
+    font-size: 1.7em;
+   }
+.sitemapContent {
+	float: left;
+	width: 572px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding: 10px;
+	
+}
+.sitemapContent img{
+    border:0px;
+    margin: 0px;
+}
+
+#content img {
+    padding: 5px;
+    border: 2px solid #964;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+#content td img
+{
+    border:none;
+    margin:none;
+}
+
+#content img.NoBorder{
+  border:0;
+  margin: 0;
+}
+  
+.centre {
+    text-align: center;
+    font-size: 0.9em;
+    font-style: italic;
+    padding-bottom: 15px;
+}
+
+.normal {
+    font-style: normal;
+}
+
+.h5_events     {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+/* Footer Styles */
+#footer p {
+    padding: 10px;
+    Padding-bottom: 15px;
+    color: black;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #98BA9E;
+    clear: both;
+}
+.clogo {
+	float: left;
+	margin-left:5px;
+}
+#footer a {
+	color: #230D9F;
+	text-decoration: underline;
+}
+#footer a:hover {
+	color: black;
+	text-decoration: none;
+}
+a {
+	color: #a60;
+	}
+a:hover {
+	color: #742;
+	text-decoration: underline;
+	background-color:orange;
+}
+.style_bold {
+	font-weight: bold;
+}
+.style_italic {
+	font-style: italic;
+}
+.floatR {
+	float: right;
+	margin: 10px;
+}	
+.floatR-panel {
+	float: right;
+	margin: 10px;
+	color: Red;
+	background-color: Yellow;
+	padding: 15px;
+	border: 0;
+	Margin: 15px;
+	font-weight: bold;
+	text-align: center;
+}
+.floatL {
+	position: relative;
+	margin-right: 20px;
+	margin-top: 10px;
+	float: left;
+}
+.footernotes {
+    font-size: 0.8em;
+    text-align: left;
+    color: White;
+}
+/* Books Styles */
+#books img {
+	float: right;
+	margin: 10px;
+}
+a {
+	color: #000000;
+}
+.a:hover {
+	color: #F8F5C7;
+}
+
+#cds img {
+	margin-right: 20px;
+	margin-top: 10px;
+
+}
+#cds img.floatRi {
+	border: none;
+	float: right;
+}
+
+.highlite {
+	padding: 10px;
+	margin-top: 10px;
+	border-style: none;
+	text-align: center;
+	white-space: normal;
+	font-weight: bold;
+	color: red;
+	background-color: #FFFF00;
+}
+.class {
+	margin-top: 10px;
+}
+#full {
+	font-weight: bold; 
+	line-height: 1.2em;
+	text-align: center;
+	padding: 3px 3px 5px 3px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: red;
+	background-color: #FFFF00;
+}
+/* Table styles */
+.office {
+	font-weight: bold;
+	text-align: right;
+}
+.committee {
+	padding-left: 10px;
+}
+.style1 {
+	border-style: solid;
+	border-width: 1px;
+	background-color: #98BA9E;
+}
+#table1 {
+	border: 3px solid #6F7C71;
+	background-color: #98BA9E;
+	margin-left: 60px;
+}
+#table2 {
+	margin-left: 0px;
+}
+
+#bottomleftlogo{
+}
+
+#bottomlogo{
+    float: right;
+    width: 220px;
+    height: 60px;
+	background: url("images/weblogos.jpg") no-repeat top;
+}
+
+#bottomrightlogo{
+    float: right;
+    margin-left: 15px;
+    width: 100px;
+    height: 93px;
+	background: url("images/60_bottomlogo.jpg") no-repeat top;
+}
+.panelR {
+    float: right;
+	margin: 10px;
+	color: Red;
+	background-color: Yellow;
+	padding: 15px;
+	border: 0;
+	Margin: 15px;
+	font-weight: bold;
+	text-align: center;
+}

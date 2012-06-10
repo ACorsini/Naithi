@@ -1,0 +1,17 @@
+﻿ body {
+ 	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.h3gallery {
+	color: white;
+	margin-top: 32px;
+}
+.backgallery {
+	color: yellow;
+	margin-top: 32px;
+}.caption {
+	padding: 5px 5px 7px 7px;
+		background-color: #6F7C71;
+}

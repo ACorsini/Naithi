@@ -1,0 +1,37 @@
+ body {
+ 	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.thumbnail {
+	float: left;
+	width: 155px;
+	height: 170px;
+	border: 1px solid #999;
+	margin: 0 10px 35px 5px;
+	margin-top: 0;
+	padding: 0 10px 0 5px;
+	background-color: #98BA9E;
+}
+
+.thumbnail-caption {
+    font-style: italic;
+    font-size: 0.9em;
+    margin-top: 1px;
+    padding-bottom: 5px;
+}
+.footernotes {
+    font-size: 0.8em;
+    text-align: left;
+    color: White;
+    width: 750px;
+} 
+.NoBorder {
+    border: 0;
+    margin: 0 10px 0 10px; 
+}
+h4 {
+    font-size: 1.4em;
+
+

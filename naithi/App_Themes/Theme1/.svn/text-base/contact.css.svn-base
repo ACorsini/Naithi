@@ -1,0 +1,22 @@
+﻿body {	
+}
+#contact1 {
+	float: left;
+	width: 572px;
+	margin-bottom: 20px;
+	padding: 10px;
+	background-color: #fff;
+}
+#e-mail {
+	float:left;
+	width: 572px;
+	margin-bottom: 20px;
+	padding: 10px;
+	background-color: #fff;
+}
+#all {
+	float: left;
+	width: 572px;
+	margin-bottom: 10px;
+	padding: 10px;
+	background-color: #6F7C71;

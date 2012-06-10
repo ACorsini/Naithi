@@ -1,0 +1,22 @@
+<head>
+<meta content="en-ie" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Title</title>
+<link href="../../../App_Themes/Theme1/naithi1.css" rel="stylesheet" type="text/css" />
+<link href="../../../App_Themes/Theme1/gallery.css" rel="stylesheet" type="text/css" />
+<link href="../../../App_Themes/Theme1/photopage.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body id="container">
+
+<h3 class="h3gallery">Heading</h3>
+<img src="#" alt="" />
+<p class="caption">Caption goes here</p> 
+<p><img alt="logo" src="../../images/reverses.gif" class="floatR" width="200px" /></p>
+<p class="backgallery">Back to the <a href="../../gallery.html#" >Photo Gallery</a></p>
+<p class="footernotes">© Craobh Naithí 2010</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+
+</html>

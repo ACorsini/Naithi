@@ -1,0 +1,29 @@
+﻿body
+{
+}
+#scoil {
+        border-bottom: 3px solid #6F7C71;
+        height: 300px;
+}
+#party {
+        border-bottom: 3px solid #6F7C71;
+        height: 350px;
+}
+#concert {
+        border-bottom: 3px solid #6F7C71;
+        height: 350px;
+}
+#wren {
+        border-bottom: 3px solid #6F7C71;
+        height: 380px;
+}
+#clearR {
+       clear: right;
+}
+.news_xhead {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: red;
+    font-style: italic;
+}
+    

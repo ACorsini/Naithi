@@ -1,0 +1,14 @@
+﻿body
+{
+}
+.panelR {
+    float: right;
+	margin: 10px;
+	color: Red;
+	background-color: Yellow;
+	padding: 15px;
+	border: 0;
+	Margin: 15px;
+	font-weight: bold;
+	text-align: center;
+}
