@@ -26,8 +26,9 @@ text-align:right;
 		<p>Chairman: Derek Johnston</p>
 		<p>(01) 450 5930 home</p>
 		<hr />
-		<p>Secretary: Monica Nowlan</p>
-		<p>(01) 493 3551 home</p>
+		<p>Secretary: Kathleen Duffy</p>
+		<p>086 8760820</p>
+		<p>(01) home</p>
 		<hr />
 		<p>Treasurer: Padraig Chambers</p>
 		<p>087 973 1366 mobile</p>
@@ -37,13 +38,13 @@ text-align:right;
 		 to <span class="style_italic">inquiries AT craobhnaithi DOT com</span> or by sending a quick message below..</p>
 		<table class="tbClass">
 		<tr>
-		<td class="tbClass2">&nbsp;</td>
+		<td class="tbClass">&nbsp;</td>
 		
-		<td class="tbClass3" colspan="2">
+		<td class="tbClass" colspan="2">
 		<asp:ValidationSummary ID="ValidationSummary1" runat="server" />
 		<asp:Label ID="ResponceLable" runat="server" Font-Size="Large" />
 		</td></tr><tr>
-		<td class="tbClass2">
+		<td class="tbClass">
 		Your Name
 		</td><td class="tbClass3">
 		<asp:TextBox ID="NameTextBox" runat="server" Width="219px"></asp:TextBox></td><td>
@@ -54,7 +55,7 @@ text-align:right;
                         ControlToValidate="NameTextBox" ErrorMessage="No more then 150 chars" OnServerValidate="CustomeValidator1_ServerValidate">*</asp:CustomValidator>
 		</td>
 		</tr><tr>
-		 <td class="tbClass2">Email</td><td>
+		 <td class="tbClass">Email</td><td>
                 <asp:TextBox ID="EmailTextBox" runat="server" 
                     Height="22px" Width="218px"></asp:TextBox></td><td>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" 
@@ -65,17 +66,17 @@ text-align:right;
                         ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*">*</asp:RegularExpressionValidator>
                 </td>
 		</tr>
-		<tr><td class="tbClass2">Your Message/or query</td><td>
+		<tr><td class="tbClass">Your Message/or query</td><td>
             <asp:TextBox ID="messageTextBox" runat="server" Height="86px" 
                 TextMode="MultiLine" Width="315px"></asp:TextBox></td>
 		<td>
             <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" 
                 ErrorMessage="RequiredFieldValidator" ControlToValidate="messageTextBox">*</asp:RequiredFieldValidator>
             </td></tr>
-		<tr><td class="tbClass2">&nbsp;&nbsp;</td><td class="tbClass3">&nbsp;</td>
+		<tr><td class="tbClass">&nbsp;&nbsp;</td><td class="tbClass3">&nbsp;</td>
 		<td>&nbsp;</td></tr>
 		<tr>
-		<td class="tbClass2">&nbsp;</td><td class="tbClass3">&nbsp;</td>
+		<td class="tbClass">&nbsp;</td><td class="tbClass3">&nbsp;</td>
 		<td> <asp:Button ID="SubmitButton" runat="server" Text="Submit" Width="114px" /></td></tr>
 		</table>
 		</div>

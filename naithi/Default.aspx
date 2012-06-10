@@ -50,7 +50,7 @@
 			 and performances by prominent visiting musicians, takes place each October.  
                 Ceardlann an Fhómhair 2012
 			 will be our 17th consecutive year.</p>
-			 <p>Last updated 4th March 2012</p>
+			 <p>Last updated 10th June 2012</p>
  <p>&nbsp;</p>
 			 
 

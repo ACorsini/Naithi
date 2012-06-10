@@ -24,17 +24,17 @@
 Clár na Seachtaine</p>
 
  <p class="body_events"><b>Monday 9th</b></p>
- <p class="body_events">Oscailt oifigiúil in Amharclann Clochar na Toirbhirte ag 8pm.
+ <p class="body_events">Oscailt oifigiúil in Amharclann Clochar na Toirbhirte ag 8pm.</p>
  
- <p class="body_events">Official Opening in the Presentation Convent Theatre at 8pm.
+ <p class="body_events">Official Opening in the Presentation Convent Theatre at 8pm.</p>
 
  <p class="style4">Tuesday 10th</p> 
  <p class="body_events">Historic Tour (walking tour of the Town) Bus Tour of the surrounding
 area.</p> 
  <p class="body_events">7.00pm Tra Na gCeist for the Primary Schools and Branches in the
-County in St. Aidan's School Hall.
+County in St. Aidan's School Hall.</p>
 
- <p class="body_events">8.00pm. House of Stories, in Presentation Convent Theatre
+ <p class="body_events">8.00pm. House of Stories, in Presentation Convent Theatre</p>
 
  <p class="body_events"><b>Wednesday 11th</b></p>
  
@@ -53,7 +53,7 @@ County in St. Aidan's School Hall.
  <p class="body_events">5-12pm Figure Dancing and Set Dancing Leinster Competitions in (Astro Active
 Centre and Bellfield GAA. Complex.)</p> 
 
- <p class="body_events">9pm Singer Club.
+ <p class="body_events">9pm Singer Club.</p>
 
  <p class="style4">Saturday 14th</p>
  
@@ -65,8 +65,7 @@ Ionad Astro agus CLG Bellfield.</p>
  
  <p class="body_events">7-10pm Gig Rig in the Square.</p>
 
- <p class="body_events"><b>Saturday 14th, Sunday 15th </b>/ Leinster Competitions in VEC 
-     and Adult Education Centre, in Music song and Comhra.</p>
+ <p class="body_events"><b>Saturday 14th, Sunday 15th </b>/ Leinster Competitions in VEC and Adult Education Centre, in Music song and Comhra.</p>
 
  <p class="body_events">Ceili Band and Grupai Cheoil in
 Astro Active Centre and Bellfield G.A.A. Complex.</p>
@@ -76,7 +75,11 @@ Astro Active Centre and Bellfield G.A.A. Complex.</p>
  <div id="cavan">
  <h3 class="h3_events">Fleadh Cheoil na hÉireann</h3>
  <p class="body_events">Cavan, Co Cavan. 18th and 19th August </p>
-
+ </div>
+ <div id="AGM">
+ <h3 class="h3_events">Craobh Naithí AGM</h3>
+ <p class="body_events">The branch AGM will take place on Monday 15th October. The venue and time to be announced. 
+ Please come along and express your interest</p>
  </div>
         <div id="scoil"> 
     <img src="App_Themes/Theme1/images/cotter.jpg" alt="Workshop" class="floatL"/>
