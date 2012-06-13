@@ -27,8 +27,8 @@ text-align:right;
 		<p>(01) 450 5930 home</p>
 		<hr />
 		<p>Secretary: Kathleen Duffy</p>
-		<p>086 8760820</p>
-		<p>(01) home</p>
+		<p>086 8760820 mobile</p>
+		<p>(01) 494 1766 home</p>
 		<hr />
 		<p>Treasurer: Padraig Chambers</p>
 		<p>087 973 1366 mobile</p>

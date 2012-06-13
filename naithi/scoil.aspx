@@ -58,31 +58,32 @@
     <table class="style4">
         <tr>
 					 <td style="width: 168px" class="instrument">Flute:</td>
-					 <td class="musician">Paul McGrattan and Mike King</td>
+					 <td class="musician">June McCormack and Troy Bannon</td>
         </tr>
   <tr>
 					 <td class="style6">Fiddle:</td>
-					 <td class="style7">James Duggan, Kevin Glackin<br/> and Geraldine O'Callaghan</td>
+					 <td class="style7">Antóin MacGabhann, Michelle Mulcahy<br />
+                                        and Bernadette Nic Gabhann</td>
         </tr>
  <tr>
 					 <td class="style8">Whistle:</td>
-					 <td class="style9">Adrian Brady</td>
+					 <td class="style9">Maureen McGrattan</td>
         </tr>
         <tr>
 					 <td style="width: 168px" class="instrument">Concertina:</td>
-					 <td class="musician">Seamus Ó Mongáin</td>
+					 <td class="musician">Michael Rooney and Caitlín Nic Gabhann</td>
         </tr>
         <tr>
 					 <td style="width: 168px" class="instrument">Accordion:</td>
-					 <td class="musician">Padraig King</td>
+					 <td class="musician">Derek Hickey</td>
         </tr>
         <tr>
 					 <td style="width: 168px" class="instrument">Banjo:</td>
-					 <td class="musician">Gearóid Keating</td>
+					 <td class="musician">James Harvey</td>
         </tr>
         <tr>
 					 <td style="width: 168px" class="instrument">
-                         <span class="style10">NEW CLASS</span><br />
+                         <span class="style10">SPECIAL CLASS</span><br />
                          <span class="style11"> Sean-nós dance:</span> 
                         </td>
 					 <td class="musician">Sibéal Davitt</td>
@@ -90,9 +91,9 @@
     </table>
 	        
 	    <h3>&nbsp;Outline Programme</h3>
-	        <p class="indent"><b>21st October</b>: Opening session in Faugh’s GAA Club, Templeogue</p>
+	        <p class="indent"><b>19th October</b>: Opening session in Faugh’s GAA Club, Templeogue</p>
 	                <p class="indenttwo">A chance to meet and play with other students</p>
-	        <p class="indent"><b>22nd October</b>: Morning, 9.30 Enrol for Classes</p>
+	        <p class="indent"><b>20th October</b>: Morning, 9.30 Enrol for Classes</p>
 	                 <p class="indenttwo">Classes will take place in St Columcille’s Community School, Templeogue.</p>
 	        <p class="indent">10am  Classes</p>
 	        <p class="indent">12.30 Lunch</p>
