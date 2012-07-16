@@ -2,6 +2,12 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
   
     <link href="App_Themes/Theme1/twigs.css" rel="Stylesheet" type="text/css" />
+    <style type="text/css">
+        .style4
+        {
+            font-style: normal;
+        }
+    </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <h1>‘Twigs’ the Branch Newsletter</h1>
@@ -38,6 +44,17 @@
              workshops, recital and concert, Fleadhanna 2010 – a busy 
              summer for our members. Weather disruption.
          The ‘Green Book’ Tutorial CD pack.</p>
+                  
+         </div>
+         <div class="thumbnail">
+       <a href="pdf/twigs32.pdf">
+       <img alt="Twigs no. 32" src="App_Themes/Theme1/images/32Twigs.jpg" width="120px" height="170px" class="floatL" /></a>
+         <h3>Twigs 
+             <br />
+             no. 32 <br />Spring 2011</h3>
+         <p class="caption-thumbnail">Music for the Feast, The <span class="style4">FullSet</span> 
+             Concert, Reels on Wheels, a fine recital given by Mick O’Brien, (pipes and flute) and Graham 
+             Guerin (Accordion), The Branch &#39;Easter&#39; trip to Armagh.</p>
                   
          </div>
     
