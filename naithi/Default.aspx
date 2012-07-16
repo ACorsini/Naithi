@@ -20,10 +20,7 @@
 		<img alt="stage" 
         src="App_Themes/Theme1/images/concert.JPG" />
 		<div class="panelR">
-		<p><span class="style5">Leinster Fleadh</span><br /> 
-            Ennscorthy 14th &amp; 15th July<br />
-             See <a href="News.aspx#leinster">Latest News</a></p>
-           <p><span class="style5">Fleadh Cheoil
+		      <p><span class="style5">Fleadh Cheoil
                <br />
                na hÉireann</span><br /> 
                Cavan: 18th, 19th August<br />
@@ -50,7 +47,7 @@
 			 and performances by prominent visiting musicians, takes place each October.  
                 Ceardlann an Fhómhair 2012
 			 will be our 17th consecutive year.</p>
-			 <p>Last updated 10th June 2012</p>
+			 <p>Last updated 16th July 2012</p>
  <p>&nbsp;</p>
 			 
 
