@@ -293,6 +293,11 @@ a {
 #table2 {
 	margin-left: 0px;
 }
+.comp  {
+    padding-left: 10px;
+    background-color: yellow;
+}
+    
 
 #bottomleftlogo{
 }
