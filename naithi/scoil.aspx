@@ -89,8 +89,13 @@
 					 <td class="musician">Sibéal Davitt</td>
         </tr>
     </table>
-	        
-	    <h3>&nbsp;Outline Programme</h3>
+    
+    <p><b>CALLING ALL PIPERS</b></p>
+
+<p><b>Mick O’Brien</b> and <b>Pádraig McGovern</b> will be teaching uilleann pipe workshops
+as part of the Ceardlann an Fhómhair and to coincide with International Piping Day.</p>
+                    
+<h3>Outline Programme</h3>
 	        <p class="indent"><b>19th October</b>: Opening session in Faugh’s GAA Club, Templeogue</p>
 	                <p class="indenttwo">A chance to meet and play with other students</p>
 	        <p class="indent"><b>20th October</b>: Morning, 9.30 Enrol for Classes</p>
