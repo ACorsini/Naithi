@@ -21,6 +21,11 @@
 
 <h1>Recent Events</h1>
 
+<div id="thanks">
+<img src="App_Themes/Theme1/images/aidan.jpg" alt="FullSet" class="events_imgR" />
+<p class="h3_events">Thanks from Aidan</p>
+<p class="body_events">Aidan Connelly would like to thank branch members for their support and shows some pictures of his African adventure <a href="pdf/Craobh Naithí thanks presentation.pdf">click here</a></p>
+</div>
 <div id="FullSet">
 <img src="App_Themes/Theme1/images/_vti_cnf/band2.jpg" alt="FullSet" class="events_imgR" />
     <p class="h3_events"><span class="style6">F</span>ull<span 
@@ -223,7 +228,7 @@
            for the night) arranged the presentation of the trophy to the Fleadh chairman Betty Ledd by
            Eithne, Eddie’s widow and Aoife his grand daughter. The McCaffrey family were well
            represented by daughter and husband Gráinne and Paddy Smith), grandsons Oisín and Fiachre;
-           Eddies sister and brother in law Carmel and Gerard O'Keeffe and Eithne's sister and brother in law Dierdre and Paddy Greene.
+           Eddies sister and brother in law Carmel and Gerard O'Keeffe and Eithne's sister and brother in law Dierdre and Paddy Greene.</p>
            <p class="body_events">Philip had spotted Seamus Mac Mathuna among the recent Craobh Naithí
            arrivals and invited him to entertain the audience with a song. Philip then invited our musicians to join with locals
            on the stage. Since we equalled in numbers the residents it was a bit of a squeeze but everyone was eventually accommodated 
@@ -236,7 +241,7 @@
            some time after that the chipper search party were underway. An hour and twenty minuets saw us back at the Spawell
            just as dawn was breaking.</p>
            <p class="body_events">We’d like to express our thanks for the warm welcome we received from the Cavan people and hope to meet them again — in August? 
-           And of course to Derek and Padraig for the organisation.
+           And of course to Derek and Padraig for the organisation.</p>
       <p class="h3_events_itals">See <a href="Gallery/gallery.html#cavan">photo gallery </a>for more photos</p> 
 </div>
 

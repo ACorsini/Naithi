@@ -9,7 +9,7 @@
 <h1>Activities</h1>
 <p class="style_bold" >Upcoming activities to put in your diary</p>
     
- <div id="no class">
+ <div id="no classes">
  <h3 class="h3_events">No Classes</h3>
  <p class="body_events">There will be no branch music classes in St. Columcille’s Community School
  on Thursday 25th October due to a performance of the School’s show.</p>

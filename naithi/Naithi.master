@@ -40,25 +40,16 @@
 			<li><a href="Twigs.aspx">Newsletter</a></li>
 			<li><a href="scoil.aspx">Ceardlann an Fhómhair</a></li>
 			<li><a href="gallery/gallery.html">Photo Gallery</a></li>
+			<li><a href= "videos.aspx">Audio and Video</a></li>
 			<li><a href="links.aspx">Links</a></li>
 			<li><a href="contact.aspx">Contact</a></li>
-			<li><a href="SiteMap.aspx">Site Map</a></li>
-			</ul>
-			<p class="navigationItals">Craobh Naithí 
-                <br />on RTE and YouTube</p>
-			<ul>
-			<li><a href="http://www.rte.ie/radio1/ceilihouse/1043815.html">Ceilí House: Tutorial CD Launch, July 2007</a></li>
-            <li><a href="http://www.youtube.com/watch?v=t8XpXzRmpk0">All-Ireland Fleadh, 2007</a></li>
-            <li><a href="http://www.youtube.com/watch?v=JtvGbAhQTpU">Jigs, All-Ireland Fleadh, 2008</a></li>
-            <li><a href="http://www.youtube.com/watch?v=VZnfW-G-zjU">Reels, All-Ireland Fleadh, 2008</a></li>
-            <li><a href="http://www.youtube.com/watch?v=zcb8i_R5Un4">Battery Park, New York, 2009</a></li>
-            </ul>
+			<li><a href="pdf/protection/protection.pdf">Child Protection Policy</a></li>
+		</ul>
 		<p>&nbsp;</p>
 		<!-- EndEditable navigation-->
 	</div>
 <div id ="content">
 		   <asp:ContentPlaceHolder  ID="ContentPlaceHolder1" runat="server">
-		  
 		   
 		   </asp:ContentPlaceHolder>
 		   </div>

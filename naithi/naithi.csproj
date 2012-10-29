@@ -149,6 +149,13 @@
     <Compile Include="Twigs.aspx.designer.cs">
       <DependentUpon>Twigs.aspx</DependentUpon>
     </Compile>
+    <Compile Include="videos.aspx.cs">
+      <DependentUpon>videos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="videos.aspx.designer.cs">
+      <DependentUpon>videos.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Themes\Theme1\contact.css" />
@@ -273,6 +280,7 @@
   <ItemGroup>
     <Content Include="App_Themes\Theme1\images\31Twigs.JPG" />
     <Content Include="App_Themes\Theme1\images\32twigs.jpg" />
+    <Content Include="App_Themes\Theme1\images\aidan.jpg" />
     <Content Include="App_Themes\Theme1\images\ball1.jpg" />
     <Content Include="App_Themes\Theme1\images\beginevents.jpg" />
     <Content Include="App_Themes\Theme1\images\book24.jpg" />
@@ -396,7 +404,8 @@
     <Content Include="Gallery\html\newyork\shield.html" />
     <Content Include="Gallery\html\newyork\subway.html" />
     <Content Include="Gallery\html\newyork\tina.html" />
-    <None Include="pdf\30Twigs.pdf" />
+    <Content Include="pdf\30Twigs.pdf">
+    </Content>
     <None Include="App_Themes\Theme1\images\comhaltas2.psd" />
     <None Include="App_Themes\Theme1\images\naithi.psd" />
     <None Include="App_Themes\Theme1\images\naithi2.psd" />
@@ -417,8 +426,12 @@
     <None Include="Model\DataClasses1.dbml.layout">
       <DependentUpon>DataClasses1.dbml</DependentUpon>
     </None>
-    <None Include="pdf\31twigs.pdf" />
-    <None Include="pdf\twigs32.pdf" />
+    <Content Include="pdf\Craobh Naithí thanks presentation.pdf" />
+    <Content Include="pdf\protection\protection.pdf" />
+    <Content Include="pdf\31twigs.pdf">
+    </Content>
+    <Content Include="pdf\twigs32.pdf">
+    </Content>
     <Content Include="Naithi.master" />
     <Content Include="News.aspx" />
     <Content Include="scoil.aspx" />
@@ -426,6 +439,7 @@
     <Content Include="SiteMap.aspx" />
     <Content Include="Twigs.aspx" />
     <Content Include="App_Themes\Theme1\twigs.css" />
+    <Content Include="videos.aspx" />
     <Content Include="Web.sitemap" />
   </ItemGroup>
   <ItemGroup>

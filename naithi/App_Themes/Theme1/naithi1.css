@@ -327,3 +327,28 @@ a {
 	font-weight: bold;
 	text-align: center;
 }
+.video
+{
+    padding:5px;
+    margin-top:20px;
+   
+}
+.video-holder
+{
+   
+    border:solid 2px #999;
+    box-shadow: 5px 5px 5px #888888;
+}
+.video-description
+{
+
+  padding: 5px;
+  border:solid 2px #999;
+  box-shadow: 5px 5px 5px #888888;
+ 
+}
+.video-header
+{
+  /* text-shadow: 2px 2px 2px #999;*/
+}
+#media { margin-bottom: 1.5em; width: 426px; text-align: center; border-bottom: 1px dashed #ccc; padding-bottom: 2em; }

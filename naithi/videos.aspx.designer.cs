@@ -11,6 +11,6 @@
 namespace naithi {
     
     
-    public partial class Events {
+    public partial class videos {
     }
 }
